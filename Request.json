@@ -1,0 +1,6 @@
+{
+  "model": "text-davinci-003",
+  "prompt": "write me a bedtime story about a lonely blobfish that is sad and has a very bad ending in which the blobfish dies after his girlfriend that he finally found after being so lonely for 45 years bites his head off",
+  "max_tokens": 1000,
+  "temperature": 0
+}
